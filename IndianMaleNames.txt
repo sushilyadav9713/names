@@ -628,7 +628,7 @@ jagdish
 bhag chand
 sachin
 parbhat
-aamod & pramod
+aamod  pramod
 chander shekhar
 nanagram
 gautam
@@ -686,7 +686,7 @@ mukesh soni
 ashok kharkwal
 raj kumar
 iswar sharan
-maj- koko khaing
+maj koko khaing
 manni  manish
 sonu
 amrit patel
@@ -2474,7 +2474,7 @@ md irfhan
 vicky
 pankaj
 sartaj
-mohd anwar-ul-haq
+mohd anwarulhaq
 sanjay saini
 shanawaz
 vakil
@@ -4042,7 +4042,7 @@ ravinder singh
 rohit
 mr ram chandr sen
 sachin sharma
-sadab(khura)
+sadabkhura
 amit yadav
 karan kumar
 rajkumar
@@ -4266,7 +4266,7 @@ deepak kumar
 bijender
 dhan bhahadur
 rajesh
-omendra singh rajpoot & kana
+omendra singh rajpoot  kana
 jag dish kumar gupta
 aejaz khan
 sandeep
@@ -4723,7 +4723,7 @@ alaudin
 mohan lal sharma
 abhishek
 manoj kumar
-amit sharma - late dev sharma
+amit sharma  late dev sharma
 sujan  rajesh
 rubal khurana
 jitender
@@ -5008,7 +5008,7 @@ lokesh
 sanpat
 mukesh kumar
 khalid
-sandee[
+sandee
 phool chand
 vipin
 ravi swarnkar
@@ -5097,7 +5097,7 @@ sandeep
 gaurav
 ramesh chand tirvedi
 akash lal
-tek chand  nanu ram  hno105 3rd floor pk
+tek chand  nanu ram  hno rd floor pk
 sh bharu singh
 sehnawaj
 mandu ram
@@ -5373,7 +5373,7 @@ rohit
 sanchit mittal
 tanmay
 abdul rahuf
-manish ( with daughter purwa 7 years )
+manish  with daughter purwa  years 
 sakcham
 surendar
 sachin singh
@@ -5508,7 +5508,6 @@ krishna
 krishna
 jagdish prasad
 vicky
-पंकज
 vipin kumar panday
 pawan
 gyanender singh  jawahar singh
@@ -5750,7 +5749,7 @@ rolly kumar
 prashant
 makan singh
 baijnath thakur
-`bishan bangari
+bishan bangari
 faizur rehman
 mr devindra singh
 amit kumar
@@ -6378,7 +6377,7 @@ shankar sharma
 sudhansu
 kartik
 ajay kumar
-sri-dwrikaprasad
+sridwrikaprasad
 shiv kumar
 rahul
 ratwari chaudhary
@@ -7756,7 +7755,7 @@ rahul
 sangeeta
 gorav
 ramanand jha
-najubai nayak 25 years
+najubai nayak  years
 firoj
 chandan
 ram kumar
@@ -8119,7 +8118,6 @@ dhrampla
 shiv narayan
 hiten dev
 ankit
-हिलेरी प
 chandru
 ankus puri
 shriram  lakhan dass
@@ -8476,7 +8474,7 @@ narhasi dass
 mokida
 rinku
 poonam
-santu & ramesh
+santu  ramesh
 rajesh patra
 munnawar ali
 ajay kumar
@@ -8567,7 +8565,7 @@ hanuman
 benu malakar
 tulsi sharma
 agrej kumar ajay
-al0k awasthi
+alk awasthi
 amir
 hari dutt
 balwant singh
@@ -8757,7 +8755,7 @@ dilshad
 neeraj
 pannalal
 sikandar sahu
-aphasana  & mukesh & narendra
+aphasana   mukesh  narendra
 bitto kumar
 rajiv chawala
 sunil
@@ -9424,7 +9422,6 @@ ravi kumar
 suresh kumar
 mohd azad
 raj kumer
-प्रमोद क
 rakesh kumar  bhardwas
 neeraj
 ganga sahey
@@ -9434,7 +9431,7 @@ raj kumar
 dharamvir
 ram shakal
 sanjeev kumar
-sri-suraj negi
+srisuraj negi
 sanju
 sukhveer singh
 pushank
@@ -9458,7 +9455,6 @@ ganesh
 jaideep
 vishal  vissu
 chetan
-हीरालाल
 laldhari ram
 babu
 bhahadur
@@ -9532,7 +9528,7 @@ shaymu meena
 rohit
 sadik ali
 jagdish
-raj kumar  (chotu)
+raj kumar  chotu
 ram jiyavan
 prashant
 rajeev giri  raju
@@ -9912,7 +9908,7 @@ kanhaya
 bhim singh
 deepak  pappu
 bhojpal
- saroj (father name rakesh)
+ saroj father name rakesh
 sudhir kumar
 sushant
 abhishek
@@ -10156,7 +10152,7 @@ anil
 budhan yadav
 irfan
 safe akhter
-koshalya with her daughter 5 years
+koshalya with her daughter  years
 rihan
 suresh chand
 dilip kumar
@@ -10994,7 +10990,7 @@ rinku
 gorav tyagi
 surya kumar saini
 ashish kumar
-mo- anjum
+mo anjum
 kartik
 kartik
 lalu ram
@@ -11269,7 +11265,6 @@ deepak
 nanak chand
 raju
 prakash chand
-श्री अब्
 jitender kumar
 dinesh
 veepal singh
@@ -11334,7 +11329,6 @@ amritpal
 bal kishan
 aasha ray
 vikash
-श्याम मो
 chabi lal
 kohinoor
 gokul
@@ -11833,7 +11827,6 @@ rajesh kumat
 anil yadav
 sahid
 ajay
-सादीक अह
 ashok
 harish chand
 rajesh
@@ -11846,7 +11839,6 @@ mahinudin
 sona lal
 chanden kumar mehto
 om pal
-प्रमाेद
 arun kumar
 vinod kumar
 sahil
@@ -11910,7 +11902,7 @@ abhishek
 jogender
 danish
 irfan
-nishant prashadanshu (with mother)
+nishant prashadanshu with mother
 ram babu
 pushpender
 dharmender kumar
@@ -12187,7 +12179,7 @@ najim
 lakshman singh
 anshul krishana urf shubham
 dilkush
-vikas kumar & bal ram
+vikas kumar  bal ram
 mahaveer jain
 asif
 prdeep soni
@@ -12563,7 +12555,6 @@ abbal singh
 mohd sahil
 waseem
 mukesh
-योगेश गालब
 karan sabharwal
 pardeep  monu
 rajam singh
@@ -12671,7 +12662,6 @@ ajay kumar
 pramod kumar
 vishnu
 md mujmmil
-रेखा शंकर
 kasim
 mohjakir
 prakash meena
@@ -12752,10 +12742,9 @@ rajender
 palaram
 abid
 sachin
-mod- akram
+mod akram
 dharam singh
 vicky  vikash
-गोतम
 sanjay chug
 praveen kumar
 gyanu kumar
@@ -13038,7 +13027,6 @@ narender
 vikash
 anand
 jai parkash
-राधेश्‍याम
 gulshan
 birbal ram
 veeri singh jatav
@@ -13264,7 +13252,6 @@ sabir
 rakesh
 subburaiyalu
 sachin
-श्री राजमल
 himansu garg
 baban mishra
 nakched parsad
@@ -13351,7 +13338,6 @@ raju
 kishan lal
 chanchal  chintu
 deepak
-श्री प्रदीप कुमार
 ashok kumar   la jeet
 ravi tripathi
 sujit kumar
@@ -13368,7 +13354,6 @@ mho aamir
 parveen
 satish chand jain
 sujata yadav
-छोगालाल
 sandeep
 salman
 jagdish ram
@@ -13390,7 +13375,7 @@ manish jain
 mahendra singh chotele
 jai kumar
 mukish kumar
-shi8vprakash
+shivprakash
 sanjeev saad
 rajesh kumar
 amrish dixit
@@ -13500,7 +13485,6 @@ aaftab
 vinayak
 munish singhla
 dilshad
-अर्जुन म
 avinash jha
 shubham dandriyal
 saahil nautiyal
@@ -13543,7 +13527,6 @@ sandeep sahu
 rma kant
 chura mukhiya
 sanjay  deep chand
-श्री नारायण लाल
 mujeeb
 amit pal
 kalu lal khatik
@@ -13716,7 +13699,6 @@ satish kumar
 gaurav gupta
 tariq
 subhash sharma
-
 gopal
 satendra kumar
 sandeep
@@ -13731,7 +13713,6 @@ unknown  monu
 randhir kumar
 mohd mahfooz alam
 shivam
-महेश
 amit kumar
 sauhal
 kishor saini
@@ -13867,7 +13848,7 @@ panchuram meena
 manoj singh bisht
 rajesh kumar
 amrjeet
-rinka  rinku rathour   naresh kumar   66 ha
+rinka  rinku rathour   naresh kumar    ha
 vishal
 joginder
 rahul  bhola
@@ -13876,7 +13857,6 @@ chhotu
 amit tandan
 vinod sehgal
 dara singh
-आशीष
 rajeev  neetu
 girwer singh
 prasant kumar
@@ -14026,7 +14006,6 @@ ram ratan
 rasid
 sachin
 dhurv solanky
-महेश
 osier
 jitender tiwari
 prannab dey
@@ -14210,7 +14189,6 @@ nikhil urf jimmi choudhri
 tarachand
 pradeep kumar chauhan
 rohit agarwal
-पेवीण उर्फ पवन कुम  
 mangal
 laxmi narayan
 istikar
@@ -14279,7 +14257,7 @@ pawan  pintu
 imsaan
 suresh
 gorav kumar
-mitnu & santhosh
+mitnu  santhosh
 santosh
 ram gopal
 mangilal
@@ -14320,7 +14298,6 @@ om prakash
 mayank
 amit kumar
 rahul
-क़ष्‍णकान्‍त उर्फ
 ashok kumar
 arif niyaz
 amit kumar
@@ -14676,7 +14653,7 @@ ram kishore
 deepak
 sonu
 mahendra yadav
-hariram s0
+hariram s
 lalit alias lowan
 rajesh saini
 hakam singh
